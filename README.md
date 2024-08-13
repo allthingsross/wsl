@@ -14,4 +14,4 @@ All things WSL (Windows Subsystem for Linux)
    - Future enhancements
      - backup versioning and housekeeping
      - specifying backup name and location as an argument to wslbackup.bat
-     - specifying WSL instance name to be backup or backup all WSL instances on the WSL
+     - specifying WSL instance name to be backed-up or backup all WSL instances on the WSL
