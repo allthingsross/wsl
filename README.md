@@ -10,7 +10,7 @@ All things WSL (Windows Subsystem for Linux)
      - CMD prompt:  cmd> wslbackup.bat
 
    - Please note that the WSL instance will be stopped before backup and then restarted upon completion!
-
+   - Please note that the WSL instance "Ubuntu" is hard-coded in the .bat file!
    - Future enhancements
      - backup versioning and housekeeping
      - specifying backup name and location as an argument to wslbackup.bat
